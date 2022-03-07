@@ -22,3 +22,8 @@ After removing suspect scores, however, the following Thomas High School metrics
 When reducing our scope to Thomas High School rather than the entire district, the true impact of removing altered test scores can be observed.  While Thomas High School originally had an overall 90.94% passing rate, the adjusted overall pass rate is ~65%.  More specifically, Thomas High School had an average math pass rate of 93.3% and reading pass rate of 97.3% originally.  After removing altered scores, however, Thomas High School's average math pass rate was 66.9% and reading pass rate was 69.7%.  In other words, removing the suspect scores caused a 27.6% drop in the reading pass rate, and a 26.4% drop in the math pass rate.  Although Thomas High School was previously included in the five highest-performing high schools in the district, its adjusted pass rate of 65% removes it from that category.
 
 **Summary**
+After replacing the altered Thomas High School scores, the following four changes were observed:
+1. As seen above, Thomas High School's pass rate decreased significantly from 91% to 65%.
+2. More specifically, reading pass rates and math pass rates were significantly reduced.
+3. Thomas High School was no longer ranked in the top-performing high schools.
+4. All ninth-grade students at Thomas High School have "NaN" listed as their math and reading scores, rather than actual scores.
